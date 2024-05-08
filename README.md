@@ -5,7 +5,7 @@
 ![Top Langs](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Top Langs](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-This pipeline was developed by the Bioinformatics Lab located in the Blood Center of Ribeirão Preto. Our main goal is to classify metagenomics samples. The pipeline provides a comprehensive solution for analyzing and classifying metagenomic data, helping researchers identify and characterize microbial diversity in different types of samples.
+This pipeline was developed by the Bioinformatics Lab located in the Blood Center of Ribeirão Preto. Our main goal is to classify metagenomics samples.
 The pipeline provides a simple but comprehensive solution for analyzing and classifying metagenomic data, helping researchers identify and characterize microbial diversity in different types of samples. We've included easy bash scripts to run and test the pipeline, as well. We encourage contributions from the community and are open to suggestions and improvements to further enhance this tool. We will continue to improve this repository with examples and updates.
 From Quality Control (QC) to Taxonomic Classification
 
